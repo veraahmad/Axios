@@ -1,1 +1,2 @@
-# Axios
+pkg update && pkg upgrade
+
