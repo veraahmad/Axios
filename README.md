@@ -7,3 +7,5 @@ node -v
 npm install axios
 
 bower install axios
+
+pkg install yarn
