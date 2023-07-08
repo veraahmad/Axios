@@ -9,3 +9,5 @@ npm install axios
 bower install axios
 
 pkg install yarn
+
+yarn add axios
